@@ -1,0 +1,10 @@
+{
+  "idf.currentSetup": "/Users/evangong/.espressif/v6.0.2/esp-idf",
+  "idf.customExtraVars": {},
+  "clangd.path": "/Users/evangong/.espressif/tools/esp-clang/esp-20.1.1_20250829/esp-clang/bin/clangd",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=/Users/evangong/Documents/Programming/OS/EvanOS/build"
+  ]
+}
